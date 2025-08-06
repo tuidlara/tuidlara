@@ -1,4 +1,4 @@
-# Arthur Zilli
+# Arthur de Lara Zilli
 
 🎓 4th-semester **Information Systems** student at **Unimater**  
 💼 Currently working with **Network Infrastructure** at the software company **Limber**  
