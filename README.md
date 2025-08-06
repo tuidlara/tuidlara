@@ -3,8 +3,7 @@
 🎓 4th-semester **Information Systems** student at **Unimater**  
 💼 Currently working with **Network Infrastructure** at the software company **Limber**  
 🔐 Interested in **Information Security**
-
-🎸 I'm passionate about **Playing Guitar**
+🎸 Guitar enthusiast
 
 ## 💡 Currently Learning
 
