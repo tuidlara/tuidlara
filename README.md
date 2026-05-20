@@ -15,7 +15,7 @@ widht="230">
 - SQL / Databases
 
  ### Tools
- VS Code
- MySQL
- Postman
- Insomnia
+- VS Code
+- MySQL
+- Postman
+- Insomnia
