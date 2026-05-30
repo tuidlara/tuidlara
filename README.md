@@ -12,7 +12,7 @@ widht="230">
 - Spring Boot
 - REST APIs
 - Git & GitHub
-- 
+  
 ### Databases
 - PostgreSQL
   
