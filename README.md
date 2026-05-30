@@ -12,8 +12,10 @@ widht="230">
 - Spring Boot
 - REST APIs
 - Git & GitHub
-- SQL / Databases
-
+- 
+### Databases
+- PostgreSQL
+  
  ### Tools
 - VS Code
 - MySQL
