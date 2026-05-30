@@ -17,7 +17,8 @@ widht="230">
 - PostgreSQL
   
  ### Tools
+- Git
+- GitHub
 - VS Code
-- MySQL
 - Postman
 - Insomnia
