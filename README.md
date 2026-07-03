@@ -22,3 +22,4 @@ widht="230">
 - VS Code
 - Postman
 - Insomnia
+- IntelliJ
