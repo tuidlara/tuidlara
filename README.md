@@ -24,7 +24,7 @@ Java is currently the main language I work with, along with technologies such as
 - SQL
 
 ### Tools
- -Git
+ - Git
  - GitHub
  - VS Code
  - Postman
