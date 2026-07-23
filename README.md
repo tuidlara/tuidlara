@@ -5,6 +5,7 @@ widht="230">
 
 🎓 Information Systems student at Unimater  
 💻 Software Development enthusiast
+
 ⚽ Grêmio supporter  
 
 ### About Me
