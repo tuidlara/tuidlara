@@ -12,9 +12,7 @@ I'm an Information Systems student passionate about technology and software deve
 Currently, I'm focused on strengthening my programming fundamentals and building practical projects while exploring different areas of the software development ecosystem.
 
 Java is currently the main language I work with, along with technologies such as Spring Boot, REST APIs, and SQL. However, I'm always open to learning new technologies, languages, and tools that can help me become a better software developer.
-
 <br clear="right"/>
-
 ### Technologies & Concepts
 * **Languages & Frameworks:** Java, Spring Boot, REST APIs
 * **Databases:** PostgreSQL, SQL
