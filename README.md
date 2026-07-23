@@ -1,7 +1,7 @@
 # Arthur de Lara Zilli
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTU2OHg0MjgyeXB5Y2xwdXV3djhoZDlkNzZzeXZuZm5rY295NjRtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xClR7LXq7JF5u/giphy.gif"
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk5a3FjdTUwcHk4cjZ1MGlvMzBxMGMycGxiZWk3eTJoNDZtb2lxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif"
   width="300">
 </div>
 
