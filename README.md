@@ -1,9 +1,6 @@
 # Arthur de Lara Zilli
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk5a3FjdTUwcHk4cjZ1MGlvMzBxMGMycGxiZWk3eTJoNDZtb2lxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif"
-  width="300">
-</div>
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk5a3FjdTUwcHk4cjZ1MGlvMzBxMGMycGxiZWk3eTJoNDZtb2lxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" width="280">
 
 🎓 Information Systems student at Unimater  
 💻 Software Development enthusiast
