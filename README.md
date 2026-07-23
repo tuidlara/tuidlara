@@ -4,7 +4,6 @@
 
 🎓 Information Systems student at Unimater  
 💻 Software Development enthusiast
-🚀 Building projects with Java, Spring Boot, REST APIs and SQL
 
 ### About Me
 
