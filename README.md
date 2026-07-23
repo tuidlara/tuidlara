@@ -4,10 +4,18 @@
 widht="230">
 
 🎓 Information Systems student at Unimater  
-💻 Focused on Java Backend Development  
+💻 Software Development enthusiast
 ⚽ Grêmio supporter  
 
-### Currently studying
+### About Me
+
+I'm an Information Systems student passionate about technology and software development.
+
+Currently, I'm focused on strengthening my programming fundamentals and building practical projects while exploring different areas of the software development ecosystem.
+
+Java is currently the main language I work with, along with technologies such as Spring Boot, REST APIs, and SQL. However, I'm always open to learning new technologies, languages, and tools that can help me become a better software developer.
+
+### Technologies & Concepts
 - Java
 - Spring Boot
 - REST APIs
@@ -15,6 +23,7 @@ widht="230">
   
 ### Databases
 - PostgreSQL
+- SQL
   
  ### Tools
 - Git
@@ -22,4 +31,4 @@ widht="230">
 - VS Code
 - Postman
 - Insomnia
-- IntelliJ
+- IntelliJ IDEA
