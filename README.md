@@ -30,5 +30,5 @@ Java is currently the main language I work with, along with technologies such as
 ## 🛠️ Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,insomnia" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,insomnia,docker" />
 </p>
