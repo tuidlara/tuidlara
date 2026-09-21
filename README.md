@@ -24,7 +24,7 @@ Java is currently the main language I work with, along with technologies such as
 ## 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
 ## 🛠️ Tools
